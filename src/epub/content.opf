@@ -34,37 +34,40 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008103615</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Mystery</meta>
+		<meta id="collection-1" property="belongs-to-collection">Reggie Fortune</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<dc:description id="description">A medically qualified detective tackles various mysteries, ranging from a failed assassination to incidents at an all-girl school, in this collection of six short stories</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p><i>Call Mr. Fortune</i> contains six short stories about Reggie Fortune, a detective who solves mysteries using his medical talent and “unequalled sanity of judgement” ("The Nice Girl"). The first case has him suspect that his patient might have been a victim of a failed assassination; In “The Hottentot Venus”, Mr. Fortune’s investigation into some incidents at his acquaintance’s all-girl’s school leads him into a predicament; meanwhile, what seems to be an ordinary leak scandal in “The Business Minister” soon turns complicated by the discovery of a dead body, who seems to be unrelated to the leak, yet holds the key to the truth—Each of the cases in the collection characterizes Mr. Fortune as not only an extraordinary detective, but also an excellent doctor.</p>
+			<p><a href="https://standardebooks.org/ebooks/h-c-bailey">H. C. Bailey</a>’s favorite detective, Reggie Fortune, has been featured in over fifty short stories as well as several novels. This short story collection marks his first appearance. Although Mr. Fortune always appears to be annoyed every time he gets dragged into a case, his determination to unveil the truth demonstrates the opposite.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59653</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/callmrfortune00bailgoog/page/n10/mode/2up</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-c-bailey_call-mr-fortune</meta>
 		<dc:creator id="author">H. C. Bailey</dc:creator>
 		<meta property="file-as" refines="#author">Bailey, H. C.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Henry Christopher Bailey</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._C._Bailey</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no95019606</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Wojciech Weiss</dc:contributor>
+		<meta property="file-as" refines="#artist">Weiss, Wojciech</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Wojciech_Weiss</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50022747</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Stephen Lins</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Lins, Stephen</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Lam Le</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Le, Lam</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
