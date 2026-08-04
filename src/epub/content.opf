@@ -44,7 +44,7 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:abstract>A medically-qualified detective tackles mysteries ranging from a failed assassination to incidents at an all-girls school.</dc:abstract>
+		<meta property="schema:abstract">A medically-qualified detective tackles mysteries ranging from a failed assassination to incidents at an all-girls school.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Call Mr. Fortune&lt;/i&gt; is the first set of short stories featuring Reggie Fortune, a detective who solves mysteries using his medical talent and “unequaled sanity of judgment.” The first case finds him suspecting that his patient might have been a victim of a failed assassination. In “The Hottentot Venus,” Mr. Fortune’s investigation into some incidents at his acquaintance’s all-girls school leads him into a predicament; meanwhile, what seems to be an ordinary leak scandal in “The Business Minister” is soon complicated by the discovery of a dead body, which seems to be unrelated to the leak, yet holds the key to the truth. Each of the cases in the collection characterizes Mr. Fortune as not only an extraordinary detective, but also an excellent doctor.&lt;/p&gt;
 		</dc:description>
